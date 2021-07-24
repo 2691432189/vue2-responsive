@@ -1,5 +1,4 @@
 import { Dep } from './Dep'
-import { myArray } from './array'
 
 export class Wather {
   constructor(data, expression, cd) {
